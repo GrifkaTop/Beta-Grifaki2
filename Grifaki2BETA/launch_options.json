@@ -1,0 +1,12 @@
+{
+    "player_links" : [
+        "./bots/maks32kg1.2.cpp",
+        "./bots/maks32kg1.4.cpp",
+        "./bots/vituha1.4.cpp",
+        "./bots/jorik1.1.cpp"
+    ],
+
+    "time_barrier" : 20,
+
+    "__COMMENT" : "time_barrier stands for how many milliseconds are there between two ticks of the game"
+}
